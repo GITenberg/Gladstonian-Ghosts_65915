@@ -1,0 +1,24 @@
+_repo: Gladstonian-Ghosts_65915
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chesterton, Cecil
+    alias: Chesterton, Cecil Edward
+    birthdate: 1879
+    deathdate: 1918
+    gutenberg_agent_id: '26214'
+    url: http://www.gutenberg.org/2009/agents/26214
+    wikipedia: https://en.wikipedia.org/wiki/Cecil_Chesterton
+description: ''
+gutenberg_issued: '2021-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65915'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Gladstonian Ghosts
+url: http://www.gutenberg.org/ebooks/65915
